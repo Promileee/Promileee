@@ -1,8 +1,11 @@
 # 👋 Hi there, I'm Eliot. W
 
+
 🎓 **Undergraduate** at [UESTC](https://en.uestc.edu.cn) 
 
+
 📍 Based in Chengdu, China 🇨🇳
+
 
 📧 renjiawang0410@163.com 
 
